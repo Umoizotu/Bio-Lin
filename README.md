@@ -1,2 +1,5 @@
-# Bio-Lin
-stage 0
+# Bio-Linux
+Stage 0
+Student 
+Ojomoiza
+submission
